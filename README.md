@@ -1,0 +1,1 @@
+This project focuses on creating panoramic images by stitching together multiple overlapping photographs. It is designed to help users generate wide-angle views or 360-degree panoramas from a series of images. 
